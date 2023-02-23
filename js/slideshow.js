@@ -1,5 +1,5 @@
 // Initialize the Glide.js slideshow
-var glide = new Glide('#slideshow', {
+let glide = new Glide('#slideshow', {
     type: 'carousel',
     perView: 1,
     autoplay: 5000,
